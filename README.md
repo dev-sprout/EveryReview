@@ -25,5 +25,5 @@
 |팀장|팀원|팀원|팀원|
 |---|---|---|---|
 |양성빈|강신영|고영일|송주영|
-|https://avatars.githubusercontent.com/u/18282470?v=4 |https://avatars.githubusercontent.com/u/68140483?v=4 |https://avatars.githubusercontent.com/u/71692330?v=4 |https://avatars.githubusercontent.com/u/66052290?v=4 |
+| <img src="https://avatars.githubusercontent.com/u/18282470?v=4" /> | <img src="https://avatars.githubusercontent.com/u/68140483?v=4" /> |<img src="https://avatars.githubusercontent.com/u/71692330?v=4" /> | <img src="https://avatars.githubusercontent.com/u/66052290?v=4" /> |
 |BE, Devops|FE|FE|BE, DB설계|
