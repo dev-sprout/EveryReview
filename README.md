@@ -18,7 +18,23 @@
 - 프론트
   * HTML5, CSS3, Javascript (ES6)
   * Next JS
+  * jest
   * React, Redux
+- Devops
+  * S3
+  * EC2
+  * RDS
+  * API Gateway
+
+## 브랜치 명명 규칙
+
+  > 자신이 맡은 담당 - 자신의 이름
+
+  ``` bash
+  BE-sungbin
+  ```
+  
+  > PR 메세지는 최대한 자세히 적도록 할것.
 
 ## 🙋🏻 팀원 구성
 
