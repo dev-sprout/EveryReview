@@ -26,6 +26,13 @@
   * RDS
   * API Gateway
 
+## 🏛 개발 계획
+ * 개발 1주차
+   * FE
+     * sample index page 개발
+   * BE
+     * Table 설계 및 ERD 작성 
+
 ## 브랜치 명명 규칙
 
   > 자신이 맡은 담당 - 자신의 이름
